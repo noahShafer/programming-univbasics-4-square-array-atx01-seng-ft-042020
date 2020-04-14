@@ -5,4 +5,5 @@ def square_array(array)
     new_array.append(array[0] * array[0])
     count += 1
   end
+  return new_array
 end
